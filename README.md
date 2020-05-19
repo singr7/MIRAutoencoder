@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 learning_datascience_pipeline
 ==============================
 
@@ -55,3 +56,6 @@ Project Organization
 --------
 
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
+=======
+# MIRAutoencoder
+>>>>>>> e4887d45e4f2af8fa1ad3b7548c50e129d1da5a8
